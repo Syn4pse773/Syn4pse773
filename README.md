@@ -6,13 +6,13 @@
 
 <div align="center">
   <h1>
-    <strong>Hi there, I'm [Your Name] 👋</strong>
+    <strong>Hi there, I'm Syn4pse 👋</strong>
   </h1>
 </div>
 
 <div align="center">
   <h3>
-    <strong>A linux developer..</strong>
+    <strong>A C/Rust linux developer.</strong>
   </h3>
 </div>
 
