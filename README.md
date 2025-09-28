@@ -29,25 +29,5 @@
   </p>
 </div>
 
----
 
-<div align="center">
-  <h2><strong>📊 My GitHub Stats 📊</strong></h2>
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Syn4pse773&show_icons=true&theme=tokyonight&rank_icon=github" 
-      alt="My GitHub Stats"
-      width="400"
-    />
-  </p>
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syn4pse773&layout=compact&theme=tokyonight" 
-      alt="My Top Languages"
-      width="320"
-    />
-  </p>
-</div>
-
----
 
