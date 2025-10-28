@@ -25,7 +25,7 @@
   <strong>Technologies and tools I work with:</strong>
   <br><br>
   <p>
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,git,github,linux,vscode,java&theme=dark" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,java,git,github,linux,vscode&theme=dark" alt="My Tech Stack"/>
   </p>
 </div>
 
