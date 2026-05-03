@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>
-    <strong>A C/Rust linux developer.</strong>
+    <strong>A C/Rust Linux Developer.</strong>
   </h3>
 </div>
 
@@ -24,10 +24,9 @@
   <h2><strong>🛠️ My Tech Stack 🛠️</strong></h2>
   <strong>Technologies and tools I work with:</strong>
   <br><br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,java,git,github,linux,vscode&theme=dark" alt="My Tech Stack"/>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,assembly,git,github,linux,vscode,vim" />
+  </a>
 </div>
 
-
-
+<br>
