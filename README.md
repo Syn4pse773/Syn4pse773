@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>
-    <strong>A C/Rust Linux Developer.</strong>
+    <strong>A C/ASM/Rust Linux Developer.</strong>
   </h3>
 </div>
 
